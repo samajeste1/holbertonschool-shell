@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+x hello pjf
+chmod a+x hello 
